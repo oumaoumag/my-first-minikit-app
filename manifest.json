@@ -3,7 +3,8 @@
     "description": "A Warpcast Mini App built with MiniKit",
     "url": "https://my-first-minikit-app.vercel.app",  
     "redirect": {
-    "native": "https://my-first-minikit-app.vercel.app", 
-    "web": "https://my-first-minikit-app.vercel.app"       
-    }
+        "native": "https://my-first-minikit-app.vercel.app", 
+        "web": "https://my-first-minikit-app.vercel.app"       
+    },
+    "version": "0.1.0"
 }
